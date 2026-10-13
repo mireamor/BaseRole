@@ -1,1 +1,2 @@
 # BaseRole Airdrop 
+New coin
